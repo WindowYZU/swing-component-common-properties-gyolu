@@ -14,7 +14,7 @@ import javax.swing.JButton;
 public class RevalidateSample extends javax.swing.JFrame {
 
     /**
-     * Creates new form RepaintSample
+     * Creates new form RepaintSample561616
      */
     public RevalidateSample() {
         initComponents();
